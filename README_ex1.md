@@ -20,9 +20,9 @@ dimensioni.
 
 È stata implementata una versione robusta con:
 
--   Partizionamento: \[specificare: Hoare / Lomuto\]
--   Strategia pivot: \[specificare: median-of-three / random /
-    centrale\]
+-   Partizionamento: [specificare: Hoare / Lomuto]
+-   Strategia pivot: [specificare: median-of-three / random /
+    centrale]
 
 Nel caso medio:
 

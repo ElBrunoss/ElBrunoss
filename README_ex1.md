@@ -4,8 +4,8 @@
 
 È stato implementato un algoritmo di ordinamento ibrido che combina:
 
--   QuickSort per sottoarray di dimensione ≥ k\
--   SelectionSort per sottoarray di dimensione \< k
+-   QuickSort per sottoarray di dimensione ≥ k
+-   SelectionSort per sottoarray di dimensione < k
 
 L'obiettivo è valutare sperimentalmente se l'introduzione di una soglia
 `k` possa migliorare le prestazioni rispetto a QuickSort puro,
